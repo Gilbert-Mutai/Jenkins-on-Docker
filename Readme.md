@@ -5,12 +5,12 @@ It installs Jenkins, BlueOcean, and Docker CLI inside the container, so Jenkins 
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone this repository and navigate into it
 ```bash
-git clone <https://github.com/Gilbert-Mutai/Jenkins-on-Docker>
-cd <Jenkins-on-Docker>
+git clone https://github.com/Gilbert-Mutai/Jenkins-on-Docker
+cd Jenkins-on-Docker
 
 ```
 

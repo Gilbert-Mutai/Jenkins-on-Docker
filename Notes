@@ -1,4 +1,0 @@
-
-// To build the image and run the Jenkins container
-
-docker compose up -d --build
